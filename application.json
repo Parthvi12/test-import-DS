@@ -28,11 +28,7 @@
   "publishedAppLayout": {
     "type": "DESKTOP"
   },
-  "unpublishedCustomJSLibs": [
-    {
-      "uidString": "jsonwebtoken_/libraries/jsonwebtoken@8.5.1.js"
-    }
-  ],
+  "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
   "applicationVersion": 2,
